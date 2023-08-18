@@ -1,0 +1,20 @@
+body {
+    background-color: lightskyblue;
+}
+h1 {
+    font-size: 30px;
+    color: darkslateblue;
+    font-family: monospace;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    color: darkslateblue;
+    font-family: monospace;
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 400px;
+    margin-left: 249px;
+}
